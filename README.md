@@ -5,11 +5,15 @@
 
 👨‍💻 What I Do:
 Web Development: Creating dynamic and responsive web applications using HTML, CSS, JavaScript, Django, and Angular.
+
 Data Science: Leveraging data to solve problems using Python, SQL, Power BI, and advanced machine learning algorithms.
+
 Machine Learning: Designing models that predict, classify, and optimize processes.
+
 🌱 Currently Exploring:
 Full-stack frameworks like Angular and Django.
 Advanced machine learning algorithms and data visualization tools.
+
 💞️ Collaboration:
 I’m eager to collaborate on web design projects, data analysis tasks, and machine learning solutions. Let’s create something amazing!
 
