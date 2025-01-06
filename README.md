@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on web designing, small projects
 - 📫 How to reach me rajeshmali005@gmail.com
 - 😄 Pronouns: RAJ (He/Him)
-- ⚡ Fun fact: love to ride only Bike 
 
 <!---
 rajeshmali005/rajeshmali005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
